@@ -1,0 +1,10 @@
+{
+	"name" : "com.Noya.TutorialMask",
+	"version": "1.0.0",
+	"displayName" : "Tutorial Mask",
+	"unity" : "2022.1",
+	"author" : {
+		"name" : "Marco Vincenzi",
+		"url" : "https://github.com/ZykeDev"
+	}
+}
